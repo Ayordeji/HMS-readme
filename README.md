@@ -54,8 +54,10 @@ Initially only implemented client-side in web browsers, JavaScript engines are n
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-## Demo
+## Link To Project
 https://codegiyu.github.io/hms-giyu/
+
+
 ## 🚀 About Us
 We are frontend developers...
 
@@ -74,9 +76,7 @@ The CSS Bootstrap Framework was of great help in optimizing the website and resp
 
 ## Tech Stack
 
-**Client:** HTML, CSS, Bootstrap.
-
-**Server:** Node, Express
+**Client:** HTML, CSS, Bootstrap JS.
 
 
 ## Screenshots
@@ -84,16 +84,7 @@ The CSS Bootstrap Framework was of great help in optimizing the website and resp
 ![App Screenshot](https://github.com/kodecampteam/kodecamp-hms-frontend/blob/booking-successful/img/homePage.png?raw=true)
 
 ![App Screenshot](https://github.com/kodecampteam/kodecamp-hms-frontend/blob/booking-successful/img/adminPage.png?raw=true)
-## Related
 
-Here are some related projects
-
-[Awesome README](https://github.com/matiassingers/awesome-readme)
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at ayoeluyemi2002@gmail.com
 
 
 ## Features
@@ -118,16 +109,16 @@ If you have any feedback, please reach out to us at ayoeluyemi2002@gmail.com
 - [@Martha](https://github.com/alaomartha)
 
 
+## Related
+
+Here are some nice and related readme(s) for you to check out:
+
+[Awesome README](https://github.com/matiassingers/awesome-readme)
 
 
+## Feedback
 
-## FAQ
-
-#### Link to Project
-
-https://codegiyu.github.io/HMS/
-
-
+If you have any feedback, please reach out to us at ayoeluyemi2002@gmail.com
 
 
 ## Lessons Learned
